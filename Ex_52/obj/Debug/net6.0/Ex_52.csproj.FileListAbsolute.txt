@@ -1,0 +1,15 @@
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/bin/Debug/net6.0/Ex_52
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/bin/Debug/net6.0/Ex_52.deps.json
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/bin/Debug/net6.0/Ex_52.runtimeconfig.json
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/bin/Debug/net6.0/Ex_52.dll
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/bin/Debug/net6.0/Ex_52.pdb
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/Ex_52.csproj.AssemblyReference.cache
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/Ex_52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/Ex_52.AssemblyInfoInputs.cache
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/Ex_52.AssemblyInfo.cs
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/Ex_52.csproj.CoreCompileInputs.cache
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/Ex_52.dll
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/refint/Ex_52.dll
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/Ex_52.pdb
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/Ex_52.genruntimeconfig.cache
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_07/Tasks_07/Ex_52/obj/Debug/net6.0/ref/Ex_52.dll
